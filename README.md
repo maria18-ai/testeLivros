@@ -4,7 +4,13 @@ Projeto sobre um quiz de livros nacionais, para estudo de JavaScript, HTML e CSS
 
 ## Para clonar o projeto
 
-De o comando git 
+Cole na URL do projeto no espaço Code do GitHub
+![clone](https://github.com/maria18-ai/testeLivros/assets/131560480/ea6de4cc-73c5-4e90-9487-d8d77f755abf)
+
+Clone o repositorio no terminal da sua IDE
+![Capturar](https://github.com/maria18-ai/testeLivros/assets/131560480/305a4cae-4707-461a-b9ae-028d123e4301)
+
+
 
 Consulte **[Implantação](#-implanta%C3%A7%C3%A3o)** para saber como implantar o projeto.
 
