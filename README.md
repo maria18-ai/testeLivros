@@ -11,11 +11,15 @@ Projeto sobre um quiz de livros nacionais, para estudo de JavaScript, HTML e CSS
 ![clone](https://github.com/maria18-ai/testeLivros/assets/131560480/ea6de4cc-73c5-4e90-9487-d8d77f755abf)
 
  - Clone o repositorio no terminal da sua IDE
- - 
+   
 
 ![Capturar](https://github.com/maria18-ai/testeLivros/assets/131560480/305a4cae-4707-461a-b9ae-028d123e4301)
 
 
+## 👩‍💻 Como utilizar? 
+
+Selecione o autor correspondente de cada livro.
+Ao final da página, clique no botão para saber o resultado do quiz.
 
 ## 📄 Licença
 
